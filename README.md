@@ -18,7 +18,6 @@ This Python program serves as a GPA calculator specifically designed for Antalya
 - Supports a range of letter grades from A+ to F.
 - Calculates GPA based on Antalya Bilim University's grading scale.
 - Accepts extra spaces between inputs for user convenience.
-- Ignores line comments within instructions.
 
 ### How to Run
 
@@ -31,11 +30,14 @@ This Python program serves as a GPA calculator specifically designed for Antalya
 
 - Ensure you have Python installed on your system to run the script.
 - The program considers a standard GPA scale with corresponding values for each letter grade.
-- All related infromation may be found on official web site of the university from UBS account in the Grade History file
+- All related infromation may be found on official web site of the university or from advisor
 
 ### Screenshots
 
 ![image](https://github.com/BilalMagomedov/ABU_GPA_Calculator/assets/53838499/6d547df7-0e8d-4a77-a790-f115a578e5a9)
+
+![image](https://github.com/BilalMagomedov/ABU_GPA_Calculator/assets/53838499/fd13c81d-8322-4809-adc6-688a129388ca)
+
 
 
 ### Author
